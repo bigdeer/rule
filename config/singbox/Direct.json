@@ -5,6 +5,11 @@
       "domain": [
         "v4.plex.tv"
       ]
+    },
+    {
+      "domain_keyword": [
+        "sonos"
+      ]
     }
   ]
 }
